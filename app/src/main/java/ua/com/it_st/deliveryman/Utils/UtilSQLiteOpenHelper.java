@@ -5,20 +5,20 @@ import android.database.DatabaseErrorHandler;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
 
-import ua.com.it_st.deliveryman.SQLTables.TableCounteragents;
-import ua.com.it_st.deliveryman.SQLTables.TableInformations;
-import ua.com.it_st.deliveryman.SQLTables.TableOrders;
-import ua.com.it_st.deliveryman.SQLTables.TablePrices;
-import ua.com.it_st.deliveryman.SQLTables.TableProducts;
-import ua.com.it_st.deliveryman.SQLTables.TableTasks;
-import ua.com.it_st.deliveryman.SQLTables.TableTypeInformations;
-import ua.com.it_st.deliveryman.SQLTables.TableTypeMeasuring;
-import ua.com.it_st.deliveryman.SQLTables.TableTypeOrders;
-import ua.com.it_st.deliveryman.SQLTables.TableTypePrioritiesTasks;
-import ua.com.it_st.deliveryman.SQLTables.TableUsers;
-import ua.com.it_st.deliveryman.SQLTables.TableViewPrices;
-import ua.com.it_st.deliveryman.SQLTables.TableСhat;
-import ua.com.it_st.deliveryman.SQLTables.TableСompanys;
+import ua.com.it_st.deliveryman.sqlTables.TableCounteragents;
+import ua.com.it_st.deliveryman.sqlTables.TableInformations;
+import ua.com.it_st.deliveryman.sqlTables.TableOrders;
+import ua.com.it_st.deliveryman.sqlTables.TablePrices;
+import ua.com.it_st.deliveryman.sqlTables.TableProducts;
+import ua.com.it_st.deliveryman.sqlTables.TableTasks;
+import ua.com.it_st.deliveryman.sqlTables.TableTypeInformations;
+import ua.com.it_st.deliveryman.sqlTables.TableTypeMeasuring;
+import ua.com.it_st.deliveryman.sqlTables.TableTypeOrders;
+import ua.com.it_st.deliveryman.sqlTables.TableTypePrioritiesTasks;
+import ua.com.it_st.deliveryman.sqlTables.TableUsers;
+import ua.com.it_st.deliveryman.sqlTables.TableViewPrices;
+import ua.com.it_st.deliveryman.sqlTables.TableСhat;
+import ua.com.it_st.deliveryman.sqlTables.TableСompanys;
 
 /**
  * Created by Gens on 27.04.2015.
