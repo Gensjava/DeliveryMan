@@ -1,6 +1,7 @@
 package ua.com.it_st.deliveryman.Utils;
 
 import android.content.ContentValues;
+import android.content.Context;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.util.Log;
@@ -11,7 +12,7 @@ import org.apache.http.Header;
 import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
-import ua.com.it_st.deliveryman.sqlTables.TableCounteragents;
+import ua.com.it_st.deliveryman.SQLTables.TableCounteragents;
 
 public class UtilAsyncHttpClient extends AsyncHttpClient {
 
