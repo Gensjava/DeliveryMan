@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DeliveryMan</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="man_title_list">
+        <item>Задачи</item>
+        <item>Сообщения</item>
+        <item>Заказы от клиентов</item>
+        <item>Заказы от поставщиков</item>
+        <item>Маршруты</item>
+        <item>Чат</item>
+        <item>Обмен данными</item>
+    </string-array>
+</resources>
